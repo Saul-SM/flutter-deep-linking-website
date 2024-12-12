@@ -1,0 +1,12 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.saulsanchezmarin.miscelaneos",
+            "sha256_cert_fingerprints": ["81:93:43:A8:AF:5C:6D:BF:60:3A:E6:B8:EF:89:4F:21:1F:91:23:8D:46:A4:53:77:58:EE:CF:0C:06:4F:C6:60"]
+        }
+    }
+]
